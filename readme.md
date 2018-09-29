@@ -1,5 +1,5 @@
 # Shouting-Machine
-## Started 1/12/2018, A program using front and back end steps and functions to determine if 3 numbers will create a triangle.
+## Started 1/10/2018, A script to input and output uppercase using HTML, CSS, JS and bootstrap.
 
 ## GitHub repository: https://github.com/r-craig73/shouting-machine
 
